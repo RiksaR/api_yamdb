@@ -49,6 +49,7 @@ http://127.0.0.1:8000/api/v1/genres/
 http://127.0.0.1:8000/api/v1/titles/
 http://127.0.0.1:8000/api/v1/titles/<title_id>/reviews/
 http://127.0.0.1:8000/api/v1/titles/<title_id>/reviews/<review_id>/comments/
+```
 
 ### Используемые технологии
 Python 3.9  
